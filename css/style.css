@@ -1,0 +1,111 @@
+.font{
+    color: #000;
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+}
+.flex{
+    display: flex;
+}
+.ul{
+    display: flex;
+    list-style: none;
+}
+.li{
+    margin-inline-end: 25px;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+}
+.container{
+    position:;
+    margin: 0px 40px;
+    margin-left: 0px 10px;
+    padding: -1px 28px;
+    justify-content: center;
+    justify-content: space-between;
+}
+.input{
+    box-sizing: 100px;
+    margin-left: 10px;
+    font-size: 20px;
+    padding: 5px;
+    font-size: 17px;
+    height: 25px;
+    border: none;
+    width:45%;
+    margin-top:7px;
+    background-color: #f0f5ff;
+    border-radius: 10px;
+}
+.explor{
+    display: flex;
+    text-align: center;
+    margin-left: 60px;
+    font-size: 13px;
+    font-family: inter_semi_bold,fallback-inter_semi_bold,Arial,sans-serif;
+    font-style: italic;
+    justify-content: flex-end;"
+}
+.wow{
+    padding:20px;
+    margin: 0px;
+    justify-content: center;
+    display: flex;
+   background-color: #fff;
+}
+.vov{
+    text-align: center;
+    box-sizing: border-box;
+    margin: 0px 40px;
+}
+.gro{
+    font-family: inter_semi_bold,fallback-inter_semi_bold,Arial,sans-serif;
+    font-size: 17px;
+    display: flex;
+    font-weight: 400;
+    align-items: center;
+    justify-content: center;
+}
+.grid{
+   margin: 5px 10px;
+}
+.yo{
+    margin-left: 10px;
+}
+.elect{
+    font-size: 30px;
+    box-sizing: border-box;
+    padding: 15px 20px;
+}
+.road{
+    box-sizing: border-box;
+    font-size: 17px;
+    padding: 6px;
+    margin: 10px;
+    border-radius: 5px;
+    margin-top: 1%;
+    border: 1px solid lightgray;
+}
+.foot{
+    width: 100%;
+    margin-top: 2%;
+    min-height: 60vh;
+    padding:2%;
+    background:#000;
+    background-size: cover;
+    background-position: center;
+}
+/* https://rukminim1.flixcart.com/fk-p-flap/1600/270/image/352e6f0f8034fab5.jpg?q=20
+https://rukminim1.flixcart.com/fk-p-flap/1600/270/image/8eb8c744a31bda65.jpg?q=20
+	https://rukminim1.flixcart.com/fk-p-flap/1600/270/image/adfcf6c059c75f1d.jpg?q=20
+    https://rukminim1.flixcart.com/fk-p-flap/1600/270/image/01f07878e0a735b8.jpg?q=20
+/*.span{
+    color: rgb(255, 255, 1);
+    margin-top:-30px;
+    font-size: 25px;
+    font-weight: 600;
+    <div><span class="span" style="color: blue;margin-top: ;">explor</span>
+        <span class="span"> plus</span></div>
+}
